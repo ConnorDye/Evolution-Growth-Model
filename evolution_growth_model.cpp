@@ -1,7 +1,4 @@
-// Program Header
-// dye.cpp
-// Connor Dye, CISP 400
-// 12/16/2020
+// Connor Dye
 
 #include <iostream>
 #include <cctype>
